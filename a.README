@@ -1,0 +1,17 @@
+windows 安装 cargo
+
+好的,我来给您讲解一下如何在 Windows 系统上安装 Cargo。
+
+Cargo 是 Rust 编程语言的包管理器和构建工具。要安装 Cargo,您需要先安装 Rust 编程语言。以下是具体步骤:
+
+访问 Rust 的官方网站 https://www.rust-lang.org/zh-CN/tools/install
+
+点击"安装 Rust"按钮,会进入到下载页面。
+
+选择"Windows"选项卡,然后根据您的系统位数(32位或64位)下载对应的安装程序。
+
+下载完成后,运行安装程序并按照提示进行安装。这样就会自动安装好 Rust 和 Cargo。
+
+安装完成后,您可以在命令提示符或 PowerShell 中运行 cargo --version 命令来验证 Cargo 是否安装成功。
+
+如果您在安装过程中遇到任何问题,欢迎随时与我联系,我会尽力为您提供帮助。
